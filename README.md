@@ -12,7 +12,7 @@
 
 5. Download and install Multibeast -> quick start -> UEFI mode defaults
 
-​		Audio > Realtek ALCxxx > ALC898
-​		Network > Atheros
-​		Network > Intel > AppleIntelE1000e
-Only other thing is when booting I need to select "drop MATS" every time, but otherwise everything seems to work fantastic!
+   ​		Audio > Realtek ALCxxx > ALC898
+   ​		Network > Atheros
+   ​		Network > Intel > AppleIntelE1000e
+   Only other thing is when booting I need to select "drop MATS" every time, but otherwise everything seems to work fantastic!
